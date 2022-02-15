@@ -799,7 +799,7 @@ body {
 }
 
 .section1 img {
-    /* border-radius: 50%; */
+    border-radius: 50%;
     height: 130px;
     width: 300px;
 }
